@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "sentry-plain",
+    "slug": "sentry-plain",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "sentry-plain"
+}
